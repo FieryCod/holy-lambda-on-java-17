@@ -1,0 +1,4 @@
+{:name "lambda-on-java.core.ExampleLambda",
+ :request {:event {:pathParameters {:message "Hello world"}},
+           :ctx {}},
+ :propagate true}
